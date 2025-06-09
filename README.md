@@ -32,8 +32,6 @@ La **Tienda 1** presenta el mayor ingreso total, seguida de cerca por la Tienda 
 - Las **categorías más vendidas** en general son **Muebles** y **Electrónicos**, con valores altos en todas las tiendas.
 - Las **categorías menos vendidas** consistentemente incluyen **Instrumentos musicales** y **Artículos para el hogar**.
 
-### (Aquí incluirías, si las tienes, las calificaciones promedio por tienda, productos más y menos vendidos y coste de envío)
-
 ## Conclusión y Recomendación
 
 Analizando los ingresos totales y el desempeño por categoría, la **Tienda 1 destaca como la mejor opción para que el Sr. Juan realice sus ventas**, dado que tiene el ingreso más alto y una buena distribución de ventas en las categorías principales como muebles y electrónicos.
